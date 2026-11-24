@@ -1,4 +1,4 @@
-# RTL Verification Warmup: 8-Bit Combinational Adder (`adder.sv`)
+# RTL Verification: 8-Bit Combinational Adder (`adder.sv`)
 
 An incremental RTL design and verification exercise using **SystemVerilog**, **Verilator** (C++ simulation compilation), **cocotb** (Python testbenches), and **GTKWave** (waveform analysis), automated via a `Makefile`[cite: 1, 2, 3, 5].
 
