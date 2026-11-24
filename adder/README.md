@@ -80,7 +80,7 @@ gtkwave dump.vcd &
 
 Select `adder` in the SST panel, append `a[7:0]`, `b[7:0]`, and `sum[8:0]`, zoom to fit, and set the signal radix to **Unsigned** or **Decimal**[cite: 5].
 
-![GTKWave 8-bit Adder Waveform](docs/adder_waveform.png)
+![GTKWave 8-bit Adder Waveform](adder/docs/adder_waveform.png)
 
 ## Next Milestone
 
