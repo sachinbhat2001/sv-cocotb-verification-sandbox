@@ -39,4 +39,5 @@ source ../../.venv/bin/activate
 make
 
 Select dff in the SST panel, append clk, rst, d, and q, and zoom to fit to verify that q stays 0 while rst is high and updates only on rising edges (posedge) of clk.
-![GTKWave 8-bit Adder Waveform](docs/dff.png)
+![GTKWave 1 Bit D Flip Flop Waveform](docs/dff.png)
+
