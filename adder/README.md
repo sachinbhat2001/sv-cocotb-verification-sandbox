@@ -82,6 +82,3 @@ Select `adder` in the SST panel, append `a[7:0]`, `b[7:0]`, and `sum[8:0]`, zoom
 
 ![GTKWave 8-bit Adder Waveform](docs/adder_waveform.png)
 
-## Next Milestone
-
-Transition from combinational logic to sequential design by implementing a **4-bit synchronous counter (`counter.sv`)** in `sandbox/` to practice `clk`, `rst`, `always_ff`, non-blocking assignments (`<=`), and `RisingEdge(dut.clk)`.
