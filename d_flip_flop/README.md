@@ -14,6 +14,7 @@ An incremental sequential RTL design and verification exercise using **Verilog**
 * **Output:** `q` (1-bit registered state output)
 * **Behavior:** Positive-edge-triggered sequential logic (`always @(posedge clk)`) using non-blocking assignments (`<=`) to clear `q` when `rst` is high and capture `d` otherwise
 
+
 ```verilog
 module dff (
     input  wire clk,
